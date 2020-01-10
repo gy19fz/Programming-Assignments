@@ -1,4 +1,3 @@
-# Programming-Assignments
 DEEP-SEA FISHING		
 ---------Hypothetical Scenario----------
 This model is about a hypothetical scenario called 'Deep-sea fishing'.
@@ -18,14 +17,15 @@ There are still some shortcomings of this program and you may have problems at r
 
 0.Before you run this model in spider please set the backend to ‘TKinter’.
 Tools → Preference C IPyython console → Graphics → Backend:TKinter 
+
+1.As the model will extract data from Internet web, it would be better to ensure you are in good Internet conditions before you run the program, otherwise it may cause the program failing to run. 
  
-1.When you press the ‘Run’ button, A GUI window and a figure window should appear the same time, please ignore the figure window(the best way is to minimize this window) and select ‘Start’ from the ‘Model’ menu in the upper left corner of the GUI window to run the model.
+2.When you press the ‘Run’ button, A GUI window and a figure window should appear the same time, please ignore the figure window(the best way is to minimize this window) and select ‘Start’ from the ‘Model’ menu in the upper left corner of the GUI window to run the model.
 
-2.Sometimes when you try closing the figure window Spyder could be crashed, please restart Spyder in this case.
+3.Sometimes when you try closing the figure window Spyder could be crashed, please restart Spyder in this case.
 
-3.If you want to run the program multiple times, it would be better to select ‘start’ from the ‘Model’ menu again rather than close the GUI window and click the ‘Run’ button. 
+4.If you want to run the program multiple times, it would be better to select ‘start’ from the ‘Model’ menu again rather than close the GUI window and click the ‘Run’ button. 
 ----------------------------------------------------------------------------------
-
 Appreciate for everyone who may read this document and run this model.
 
 @author: FugangZhou    ´¯`·.¸¸.·´¯`·.¸ ><((((((º>
